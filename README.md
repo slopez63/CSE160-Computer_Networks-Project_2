@@ -1,8 +1,8 @@
 # CSE160-Computer_Networks-Project_2
 
-Design Decisions
+Project 2: Link State Protocol
 
-Project 2 Link State Protocol
+Design Decisions
 
 Part 1: Receiving Packets
   For this project we first decided to build up our project using the implementation we had for
