@@ -1,5 +1,7 @@
 # CSE160-Computer_Networks-Project_2
 
+Sigi Lopez and Juan Benitez
+
 Project 2: Link State Protocol
 
 Design Decisions
