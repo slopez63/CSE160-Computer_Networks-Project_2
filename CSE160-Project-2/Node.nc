@@ -37,7 +37,7 @@ implementation{
 
    uint16_t start_time_neighbor_discovery, start_time_linkstate, start_time_dijkstra;
 
-   //Gueto linkstate structure. Stores all neighbors of the node + cost
+   //linkstate structure. Stores all neighbors of the node + cost
    uint8_t neighborsToSend[MAX_NEIGHBORS];
 
    //linkState linkStatePack;                                 //Empty Linkstate struct aka does not work
